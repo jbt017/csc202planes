@@ -10,7 +10,7 @@ public class Planes {
         Scanner sc=new Scanner(file);
         sc.useDelimiter("\\s*,\\s*");
 
-        // Skip header line in text file
+        // Skip header line in text file added
         sc.nextLine();
 
         //Create Array
